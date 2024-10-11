@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\bin\Debug\DivideYVencerasEj1.exe.config
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\bin\Debug\DivideYVencerasEj1.exe
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\bin\Debug\DivideYVencerasEj1.pdb
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\obj\Debug\DivideYVencerasEj1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\obj\Debug\DivideYVencerasEj1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\obj\Debug\DivideYVencerasEj1.exe
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\DivideYVencerasEj1\DivideYVencerasEj1\obj\Debug\DivideYVencerasEj1.pdb

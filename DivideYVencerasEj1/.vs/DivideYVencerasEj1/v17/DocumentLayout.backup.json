@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\DivideYVencerasEj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B0B2CD-C82D-4A1D-AD7E-F349DCCC9B9C}|DivideYVencerasEj1\\DivideYVencerasEj1.csproj|c:\\users\\lenovo\\desktop\\reforzamiento_10_octubre\\divideyvencerasej1\\divideyvencerasej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B0B2CD-C82D-4A1D-AD7E-F349DCCC9B9C}|DivideYVencerasEj1\\DivideYVencerasEj1.csproj|solutionrelative:divideyvencerasej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\DivideYVencerasEj1\\DivideYVencerasEj1\\Program.cs",
+              "RelativeDocumentMoniker": "DivideYVencerasEj1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\DivideYVencerasEj1\\DivideYVencerasEj1\\Program.cs",
+              "RelativeToolTip": "DivideYVencerasEj1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:54:16.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
